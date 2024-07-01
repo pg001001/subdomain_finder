@@ -76,9 +76,6 @@ python dome.py --help
 - Possibility to use threads for faster bruteforce scans
 - Export output in different formats such as txt, json, html
 
-## Buy me a Coffee
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/v4d1)
 
 
 ## Screenshots
@@ -204,9 +201,3 @@ python dome.py -m active -d domain -w wordlist.txt -p 22,80,3306
 ```
 
 
-
-## Contact
-
-You can contact me at vadi@securihub.com
-
-**License: for commercial use, contact me at email above**
